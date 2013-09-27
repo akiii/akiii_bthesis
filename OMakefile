@@ -1,0 +1,58 @@
+LATEX           = platex
+TETEX2_ENABLED  = false     # falseにしないとthesis.flsを探しに行って失敗する
+BIBTEX          = jbibtex   # bibtexのコマンドも指定してあげる
+DVIPDFM         = dvipdfmx
+DVIPDFMFLAGS    = -p a4     # デフォルトではUS-Letterサイズが出力される
+FILENAME 	= akiii_bthesis
+USER		= akiii
+#PUBLIC_FOLDER   = /home/nakajima/public_html
+PREVIEW_PDF	=$(FILENAME)-preview.pdf
+SRC		= ./src
+BIBSRC		= ./bib
+#UP 		= cpu.sfc.wide.ad.jp:.public_html/tex
+#CNSUP 		= s06153yu@ccx00.sfc.keio.ac.jp:public_html/bthesis
+#TESTUP 		= cpu.sfc.wide.ad.jp:.public_html/
+KILL		= AdobeReader
+OPEN		= open
+
+# 複数に分割しているファイル達 (.bibファイルも指定しておく)
+
+.PHONY: all install clean #testup #pre
+
+TEXDEPS[]   =
+	$(BIBSRC)/track.bib
+	$(BIBSRC)/biblio.tex
+	$(BIBSRC)/privacy.bib
+	$(BIBSRC)/software.bib
+	$(BIBSRC)/company.bib
+	$(SRC)/1_introduction.tex
+	$(SRC)/2_background.tex
+	$(SRC)/3_related_works.tex
+	$(SRC)/4_assumption.tex
+	$(SRC)/5_evaluation.tex
+	$(SRC)/5_2_evaluation.tex
+	$(SRC)/6_consideration.tex
+	$(SRC)/7_conclusion.tex
+	$(SRC)/abstract_english.tex
+	$(SRC)/abstract_japanese.tex
+	$(SRC)/acknowledgement.tex
+	$(SRC)/titlepage.tex
+#$(SRC)/design
+
+LaTeXDocument($(FILENAME),$(FILENAME))
+
+.DEFAULT: $(FILENAME).pdf
+#scp $(FILENAME).pdf  $(UP) 
+
+
+
+.PHONY: update
+# scp $(FILENAME).pdf  $(UP) 
+# scp $(FILENAME).pdf  $(CNSUP)/bthesis.pdf
+.DEFAULT: $(FILENAME).pdf 
+
+.PHONY: clean
+clean:
+rm -rf 	$(FILENAME).dvi $(FILENAME).lof $(FILENAME).lot $(FILENAME).toc\
+	$(FILENAME).aux $(FILENAME).log $(FILENAME).out\
+	$(SRC)/*~ ./*~ ./*.omc ./str/*~ $(BIBSRC)/*~ ./*.bbl ./*.blg

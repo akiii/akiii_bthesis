@@ -1,0 +1,654 @@
+This is pTeXk, Version 3.141592-p3.1.11 (euc) (Web2C 7.5.4) (format=platex 2012.9.25)  25 SEP 2013 22:21
+ %&-line parsing enabled.
+**akiii_bthesis
+(./akiii_bthesis.tex
+pLaTeX2e <2006/11/10>+0 (based on LaTeX2e <2009/09/24> patch level 0)
+(/usr/share/texmf/ptex/platex/base/jreport.cls
+Document Class: jreport 2006/06/27 v1.6 Standard pLaTeX class
+\c@@paper=\count81
+(/usr/share/texmf/ptex/platex/base/jsize12.clo
+File: jsize12.clo 2006/06/27 v1.6 Standard pLaTeX file (size option)
+)
+\c@part=\count82
+\c@chapter=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+\c@figure=\count89
+\c@table=\count90
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 677.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count91
+) (./sty/eclepsf.sty
+EPSF macro package for LaTeX. version 1.5 - Released May 11, 1992
+\@arga=\count92
+\@argb=\count93
+\@argc=\count94
+\@ctmpa=\count95
+\@ctmpb=\count96
+\@ctmpc=\count97
+\@ctmpd=\count98
+\@ctmpe=\count99
+\@darg=\dimen121
+\@bblen=\dimen122
+\ps@stream=\read1
+) (/usr/share/texmf/ptex/platex/base/tascmac.sty
+\@savetbaselineshift=\dimen123
+\@saveybaselineshift=\dimen124
+\scb@x=\box41
+\scscb@x=\box42
+\@bw=\dimen125
+\@nbox=\box43
+\@nbody=\box44
+\@scw=\dimen126
+\@itemh=\dimen127
+\@iboxpos=\toks15
+\@iboxstr=\box45
+\@bwsp=\box46
+\@@bwsp=\box47
+\@bcal=\count100
+\shaderule=\dimen128
+)
+(/usr/share/texmf-texlive/tex/latex/tools/tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+(/usr/share/texmf-texlive/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen129
+\extrarowheight=\dimen130
+\NC@list=\toks16
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+\TX@col@width=\dimen131
+\TX@old@table=\dimen132
+\TX@old@col=\dimen133
+\TX@target=\dimen134
+\TX@delta=\dimen135
+\TX@cols=\count101
+\TX@ftn=\toks17
+)
+(/usr/share/texmf-texlive/tex/latex/natbib/natbib.sty
+Package: natbib 2009/07/16 8.31 (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count102
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvipdfm.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/dvipdfm/dvipdfm.def
+File: dvipdfm.def 1999/9/6 vx.x Driver-dependant file
+))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvipdfm.def on input line 130.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip47
+\subfigcapskip=\skip48
+\subfigcaptopadj=\dimen138
+\subfigbottomskip=\skip49
+\subfigcapmargin=\dimen139
+\subfiglabelskip=\skip50
+\c@subfigure=\count103
+\c@lofdepth=\count104
+\c@subtable=\count105
+\c@lotdepth=\count106
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip51
+\subfig@bottom=\skip52
+)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen140
+\Hy@linkcounter=\count107
+\Hy@pagecounter=\count108
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \unexpanded.
+(etexcmds)             That can mean that you are not using e-TeX or
+(etexcmds)             that some package has redefined \unexpanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Option `breaklinks' set `true' on input line 2864.
+Package hyperref Info: Option `bookmarks' set `true' on input line 2864.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 2864
+.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 2864.
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is not available.
+Package pdftexcmds Info: \pdf@ifprimitive is not available.
+)))
+\Fld@menulength=\count109
+\Field@Width=\dimen141
+\Fld@charsize=\dimen142
+\Field@toks=\toks19
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count110
+\c@Item=\count111
+)
+*hyperref using driver hdvipdfm*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hdvipdfm.def
+File: hdvipdfm.def 2009/10/09 v6.79a Hyperref driver for dvipdfm
+\pdfm@box=\box48
+\c@Hy@AnnotLevel=\count112
+\HyField@AnnotCount=\count113
+\Fld@listcount=\count114
+)
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip53
+\f@ncyO@elh=\skip54
+\f@ncyO@erh=\skip55
+\f@ncyO@olh=\skip56
+\f@ncyO@orh=\skip57
+\f@ncyO@elf=\skip58
+\f@ncyO@erf=\skip59
+\f@ncyO@olf=\skip60
+\f@ncyO@orf=\skip61
+)
+(./sty/doxygenorig.sty
+
+LaTeX Warning: You have requested package `./sty/doxygenorig',
+               but the package provides `doxygen'.
+
+Package: doxygen 
+\tmplength=\skip62
+) (/usr/share/texmf-texlive/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.sty
+\lst@mode=\count115
+\lst@gtempboxa=\box49
+\lst@token=\toks20
+\lst@length=\count116
+\lst@currlwidth=\dimen143
+\lst@column=\count117
+\lst@pos=\count118
+\lst@lostspace=\dimen144
+\lst@width=\dimen145
+\lst@newlines=\count119
+\lst@lineno=\count120
+\lst@maxwidth=\dimen146
+
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count121
+\lst@skipnumbers=\count122
+\lst@framebox=\box50
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+ (./sty/jlisting.sty
+
+LaTeX Warning: You have requested package `sty/jlisting',
+               but the package provides `jlisting'.
+
+Package: jlisting 2006/02/20 0.2 (Thor)
+\lst@nextchar=\count123
+\lst@inputfile=\read2
+) (/usr/share/texmf-texlive/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(/usr/share/texmf-texlive/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks21
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(./akiii_bthesis.aux
+
+LaTeX Warning: Label `assumption:pakcet' multiply defined.
+
+
+LaTeX Warning: Label `conclusion:matome' multiply defined.
+
+)
+\openout1 = `akiii_bthesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+Package hyperref Info: Link coloring OFF on input line 78.
+ (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count124
+)
+LaTeX Info: Redefining \ref on input line 78.
+LaTeX Info: Redefining \pageref on input line 78.
+
+(./akiii_bthesis.out) (./akiii_bthesis.out)
+\@outlinefile=\write3
+\openout3 = `akiii_bthesis.out'.
+
+\AtBeginShipoutBox=\box51
+\c@lstlisting=\count125
+ (./src/titlepage.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 12.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 12.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
+
+])
+(./src/abstract_japanese.tex) [1] (./src/abstract_english.tex) [2
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 93.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 93.
+
+(./akiii_bthesis.toc
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
+ [3
+
+
+]
+
+LaTeX Font Warning: Font shape `JT1/mc/m/sl' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 72.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/sl' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 72.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4])
+\tf@toc=\write4
+\openout4 = `akiii_bthesis.toc'.
+
+ [5] (./akiii_bthesis.lof)
+\tf@lof=\write5
+\openout5 = `akiii_bthesis.lof'.
+
+ [6
+
+
+] (./akiii_bthesis.lot)
+\tf@lot=\write6
+\openout6 = `akiii_bthesis.lot'.
+
+ [7
+
+
+]
+(./src/1_introduction.tex
+Ви 1 ѕП
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 7.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 7.
+[1
+
+
+] [2]) (./src/2_background.tex [3]
+Ви 2 ѕП
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 12.
+File: ./pdf/kokudokotsusho_users_num.pdf Graphic file (type eps)
+<./pdf/kokudokotsusho_users_num.pdf>
+File: ./pdf/jr_delays_page.pdf Graphic file (type eps)
+ <./pdf/jr_delays_page.pdf>
+File: ./pdf/odakyu_twitter_page.pdf Graphic file (type eps)
+
+<./pdf/odakyu_twitter_page.pdf> [4
+
+] [5]
+
+LaTeX Warning: Text page 6 contains only floats.
+
+[6] [7]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 127.
+
+ (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 127.
+ [8]
+
+LaTeX Warning: Reference `background:passive' on page 9 undefined on input line
+ 164.
+
+
+LaTeX Warning: Reference `background:thread' on page 9 undefined on input line 
+165.
+
+[9]) (./src/3_related_works.tex [10]
+Ви 3 ѕП
+File: ./pdf/related_work_1.pdf Graphic file (type eps)
+<./pdf/related_work_1.pdf>
+
+LaTeX Warning: Reference `fig:model_1' on page 11 undefined on input line 36.
+
+
+LaTeX Warning: Reference `fig:model_2' on page 11 undefined on input line 36.
+
+
+LaTeX Warning: Reference `fig:model_2' on page 11 undefined on input line 48.
+
+[11
+
+]
+
+LaTeX Warning: Reference `fig:model_2' on page 12 undefined on input line 58.
+
+
+LaTeX Warning: Reference `fig:model_2' on page 12 undefined on input line 69.
+
+[12]) (./src/4_assumption.tex [13]
+Ви 4 ѕП
+File: ./pdf/zentai.pdf Graphic file (type eps)
+<./pdf/zentai.pdf>
+File: ./pdf/packet_model.pdf Graphic file (type eps)
+ <./pdf/packet_model.pdf> [14
+
+] [15]
+File: ./pdf/userA_ipport.pdf Graphic file (type eps)
+ <./pdf/userA_ipport.pdf>
+File: ./pdf/userB_ipport.pdf Graphic file (type eps)
+
+<./pdf/userB_ipport.pdf> [16]
+
+LaTeX Warning: Text page 17 contains only floats.
+
+[17]
+File: ./pdf/src_port.pdf Graphic file (type eps)
+ <./pdf/src_port.pdf>
+Overfull \hbox (11.9995pt too wide) in paragraph at lines 144--145
+ [] 
+ []
+
+[18]
+File: ./pdf/stup_mac2.pdf Graphic file (type eps)
+ <./pdf/stup_mac2.pdf>
+File: ./pdf/stup_win2.pdf Graphic file (type eps)
+ <./pdf/stup_win2.pdf>
+Overfull \hbox (7.98218pt too wide) in paragraph at lines 201--202
+ [] 
+ []
+
+File: ./pdf/mac_port.pdf Graphic file (type eps)
+<./pdf/mac_port.pdf>
+File: ./pdf/win_port.pdf Graphic file (type eps)
+ <./pdf/win_port.pdf> [19]
+
+LaTeX Warning: Text page 20 contains only floats.
+
+[20]
+
+LaTeX Warning: Text page 21 contains only floats.
+
+[21]
+File: ./pdf/startup_suspend.pdf Graphic file (type eps)
+ <./pdf/startup_suspend.pdf>
+Overfull \hbox (1.46017pt too wide) in paragraph at lines 282--283
+ [] 
+ []
+
+[22] [23] [24]
+File: ./pdf/dhcp.pdf Graphic file (type eps)
+ <./pdf/dhcp.pdf> [25] [26]
+File: ./pdf/share_model.pdf Graphic file (type eps)
+ <./pdf/share_model.pdf>
+File: ./pdf/share_mac.pdf Graphic file (type eps)
+
+<./pdf/share_mac.pdf> [27] [28]
+
+LaTeX Warning: Reference `background:user_in_network' on page 29 undefined on i
+nput line 552.
+
+File: ./pdf/Bluetooth_model.pdf Graphic file (type eps)
+<./pdf/Bluetooth_model.pdf> [29]) (./src/5_evaluation.tex [30]
+Ви 5 ѕП
+File: ./pdf/system_model.pdf Graphic file (type eps)
+<./pdf/system_model.pdf>
+Overfull \hbox (9.28705pt too wide) in paragraph at lines 33--34
+ [] 
+ []
+
+[31
+
+] [32]
+File: ./pdf/tree.pdf Graphic file (type eps)
+ <./pdf/tree.pdf> [33]
+File: ./pdf/wide_top.pdf Graphic file (type eps)
+ <./pdf/wide_top.pdf>
+Overfull \hbox (29.32616pt too wide) in paragraph at lines 174--210
+ [] 
+ []
+
+[34] [35] [36]) (./src/5_2_evaluation.tex [37]
+File: ./pdf/share_topo.pdf Graphic file (type eps)
+ <./pdf/share_topo.pdf>
+File: ./figure/life_time.eps Graphic file (type eps)
+
+<./figure/life_time.eps> [38] [39] [40]
+File: ./pdf/Bluetooth_display.pdf Graphic file (type eps)
+ <./pdf/Bluetooth_display.pdf> [41]
+
+LaTeX Warning: Reference `background:user_in_network' on page 42 undefined on i
+nput line 187.
+
+File: ./pdf/Bluetooth_lifetime.pdf Graphic file (type eps)
+<./pdf/Bluetooth_lifetime.pdf> [42] [43]) (./src/6_consideration.tex [44]
+Ви 6 ѕП
+[45
+
+]
+
+LaTeX Warning: Text page 46 contains only floats.
+
+[46] [47] [48]) (./src/7_conclusion.tex [49]
+Ви 7 ѕП
+[50
+
+]) (./src/acknowledgement.tex [51]) (./bib/biblio.tex (./akiii_bthesis.bbl
+[52
+
+]
+
+LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
+(Font)              using `JT1/gt/m/n' instead on input line 20.
+
+
+LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
+(Font)              using `JY1/gt/m/n' instead on input line 20.
+
+[53
+
+])) [54] (./akiii_bthesis.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6842 strings out of 257674
+ 97872 string characters out of 1191153
+ 196682 words of memory out of 3000000
+ 9799 multiletter control sequences out of 10000+50000
+ 24940 words of font info for 101 fonts, out of 2000000 for 2000
+ 14 hyphenation exceptions out of 8191
+ 38i,12n,58p,280b,551s stack positions out of 5000i,500n,6000p,200000b,40000s
+
+Output written on akiii_bthesis.dvi (62 pages, 285648 bytes).

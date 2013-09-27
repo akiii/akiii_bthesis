@@ -1,0 +1,89 @@
+@Misc{phorm:2009,
+  key =	 {http://www.phorm.com/},
+  author =	 {Phorm Inc},
+  title =	 {Phorm Inc :: Home Page},
+  month =	 12,
+  year =	 2009
+}
+
+@Misc{mixi:2009,
+  author = 	 {mixi,Inc},
+  title = 	 {[mixi]},
+  howpublished = {\url{http://mixi.jp}},
+  month = 	 9,
+  year = 	 2009}
+                  
+@Misc{twitter:2009,
+  author =	 {Twitter},
+  title =	 {twitter},
+  howpublished = {\url{http://twitter.com}},
+  month =	 9,
+  year =	 2009
+}
+                  
+@Manual{nebuad:2008,
+  title = 	 {NebAD Inc},
+  key = 	 {NebAd},
+  author = 	 {NebAD Inc},
+  address = 	 {http://www.nebuad.com},
+  month = 	 6,
+  year = 	 2008}
+
+
+@Misc{plala:2009,
+  title = 	 {ぷららホームページ},
+  author = 	 {Pala Inc},
+  howpublished = {\url{http://www.plala.or.jp}},
+  month = 	 11,
+  year = 	 2009}
+                  
+@Misc{amazon:2009,
+  author = 	 {Amazon.com,Inc},
+  title = 	 {Amazon.co.jp: 通販 -ファション、家具から家電まで},
+  howpublished = {\url{http://www.amazon.co.jp}},
+  month = 	 12,
+  year = 	 2009}
+                  
+@Misc{pasmo,
+  author = 	 {PASMO co},
+  title = 	 {PASMO},
+  howpublished = {http://www.pasmo.co.jp/},
+  month = 	 12,
+  year = 	 2009}
+                  
+@Misc{suica,
+  author = 	 {East Japan Railway Company},
+  title = 	 {JR東日本:Suica},
+  howpublished = {http://www.pasmo.co.jp/},
+  month = 	 2009,
+  year = 	 10}
+                  
+                  
+@Misc{navitime,
+  author = 	 {NAVITIME JAPAN},
+  title = 	 {地図検索｜NAVITIME},
+  howpublished = {http://www.navitime.co.jp/},
+  month = 	 12,
+  year = 	 2009}
+
+@Misc{google,
+  author = 	 {Google},
+  title = 	 {Google},
+  howpublished = {http://www.google.com},
+  month = 	 12,
+  year = 	 2009}
+
+@Misc{privacymark:2009,
+  author = 	 {JIPDEC},
+  title = 	 {プライバシマーク制度},
+  howpublished = {http://privacymark.jp/index.html},
+  month = 	 12,
+  year = 	 2009}
+
+@Misc{adobe,
+  author = 	 {Adobe Systems Incorporated},
+  title = 	 {Adobe},
+  howpublished = {http://www.adobe.com/},
+  month = 	 12,
+  year = 	 2009}
+

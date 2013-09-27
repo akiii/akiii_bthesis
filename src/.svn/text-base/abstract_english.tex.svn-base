@@ -1,0 +1,65 @@
+Abstract of Bachelor's Thesis - Academic Year 2009
+~ \\
+
+%\begin{flushright}
+%Academic Year 2008
+%\end{flushright}
+
+\begin{center}
+\begin{Large}
+\begin{tabular}{|c|} \hline
+Risk Analysis and Countermeasures on User Tracking \\
+by Digital Information Surveillance
+\\
+\hline
+\end{tabular}
+\end{Large}
+\end{center}
+~  \\
+\indent As computer networks have covered various places and
+population globally, users transmit various data in numerous occasions,
+both intentionally and unintentionally.  As services that utilize the
+network increased, the chance of data transmitted on the network being
+accumulated and recorded has reached the significant level.  Those
+individual data may not be considered as privacy information.
+However, as those control data has increased, it became possible to
+combine them and produce a single profile of a certain user.  When the
+profiling become possible, the information that weren't considered as
+a privacy information then becomes a privacy information.
+
+To ensure that the users' privacy aren't intruded, it is necessary to
+determine which information could lead the profiling of the user, and
+construct a guideline based on the study.  This thesis clarifies the
+types of information that could be accumulated to profile a user, and
+how those information could be captured on the computer network.The
+method proposed in the thesis classifies collectors into three
+categories, and different methods of profiling is stated based on the
+characteristics of those categories.  The information used for
+capturing a user's profile includes: packet header information,
+information used for sharing hosts' computing resources, and device
+discovery information for Bluetooth devices.  The threats that could
+outcome from the profiling include: revealing users' activity history,
+discovering when the users are actively using the network, and
+determining actual location of the physical computer that is being a
+source of the information.The system for capturing and analyzing those information was developed
+to present that they could be a threat against privacy information.  The
+result showed that both specifying an individual user and profiling the
+user's activities is possible based on the method presented in the
+thesis.
+
+Based on the evaluation,we discussed cases of collecting these imformation and impact of users privacy.
+Additionally, the guidelines for handling those information is
+proposed, to ensure that the users' privacy are protected and secured.
+
+
+~ \\
+Keywords : \\
+\underline{1. Network Tracking}, \underline{2.Digital Forensics}, \underline{3.Internet Security}, \underline{4.Network Monitoring}
+
+\begin{flushright}
+Keio University, Faculty of Policy Management\\
+~ \\
+\begin{Large}
+Yuki Uehara
+\end{Large}
+\end{flushright}

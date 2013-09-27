@@ -1,0 +1,83 @@
+@Misc{plala_news:2009,
+  author = 	 {NTTPlala},
+  title = 	 {ニュースリリース(2006.6.13)},
+  howpublished = {\url{http://www.plala.or.jp/member/option_service/secuplus/nbb/start_wfs.html}},
+  month = 	 12,
+  year = 	 2009
+}
+                  
+@Misc{takagi:2009,
+  howpublished = {http://takagi-hiromitsu.jp/diary/20090301.html},
+  author = 	 {高木浩光},
+  title = 	 {Bluetoothで山手線の乗車パターンを追跡してみた},
+  year = 	 2009,
+  note = 	 12,
+  annote = 	 {高木浩光の自宅の日記}
+}
+                  
+@Manual{radio_act:2009,
+  author = 	 {総務省},
+  title = 	 {電波法 第5章},
+  howpublished= {\url{http://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/japanese/laws/denpa/dp-5-1.html}},
+  year = 	 2009,
+  month = 	 12
+}
+                  
+
+@Misc{OECD8:1980,
+  title = 	 {{OECD RECOMMENDATION CONCERNING AND GUIDELINES GOVERNING THE PROTECTION OF PRIVACY AND TRANSBORDER FLOWS OF PERSONAL DATA}},
+  howpublished = {O.E.C.D. Document C(80)58(Final)},
+  month = 	 10,
+  year = 	 1980}
+
+@BOOK{privacy:1967,
+  author =	 "Westin,Alan",
+  title =	 "Privacy and Freedom",
+  publisher =	 "New Jork Atheneum",
+  year =	 1967
+}
+                 
+                  
+@PhdThesis{saikawa:2008,
+  author = 	 {佐藤 雅明},
+  title = 	 {インターネット上での自動車情報基盤の構築},
+  school = 	 {慶応義塾大学政策・メディア研究科},
+  year = 	 2008}
+
+@conference{kris:2009,
+  title={{On the leakage of personally identifiable information via online social networks}},
+  author={Krishnamurthy, B. and Wills, C.E.},
+  booktitle={Proceedings of the 2nd ACM workshop on Online social networks},
+  pages={7--12},
+  year={2009},
+  organization={ACM}
+}
+
+@article{info_combine:2000,
+  title={{ネットワーク上での情報統合によるプライバシー侵害とその対策}},
+  author={本村憲史 and 金田重郎},
+  journal={経営情報学会 1998 年春季全国研究発表大会, D-1-2},
+  pages={65--68},
+  year={1998}
+}
+
+@article{personal_data:2005,
+  author = 	 {松井志菜子},
+  title = 	 {個人情報・プライバシーの保護},
+  journal = 	 {長岡技術科学大学言論・人文科学論集},
+  year = 	 2005,
+  volume = 	 19,
+  pages = 	 {83-133}
+}
+                  
+
+
+
+@Article{Lockr:2009,
+  author = 	 {A. Tootoonchian and S. Saroiu and Y. Ganjali and A. Wolman},
+  title = 	 {Lockr: Better Privacy for Social Networks},
+  journal = 	 {CoNEXT},
+  year = 	 2009,
+  pages = 	 {169-180}
+}
+

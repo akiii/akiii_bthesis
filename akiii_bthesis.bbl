@@ -1,0 +1,129 @@
+\begin{thebibliography}{10}
+
+\bibitem{amazon:2009}
+Inc Amazon.com.
+\newblock Amazon.co.jp: 通販 -ファション、家具から家電まで.
+\newblock \url{http://www.amazon.co.jp}, 12 2009.
+
+\bibitem{navitime}
+NAVITIME JAPAN.
+\newblock 地図検索｜navitime.
+\newblock http://www.navitime.co.jp/, 12 2009.
+
+\bibitem{privacy_policy:2009}
+総務省行政管理局.
+\newblock 個人情報の保護に関する法律.
+\newblock \url{http://law.e-gov.go.jp/htmldata/H15/H15HO057.html}, 12 2009.
+
+\bibitem{privacy:1967}
+Alan Westin.
+\newblock {\em Privacy and Freedom}.
+\newblock New Jork Atheneum, 1967.
+
+\bibitem{kokudokotsusho:num_of_users}
+国土交通省.
+\newblock 旅客の輸送機関別輸送量・分担率の推移.
+\newblock \url{http://www.mlit.go.jp/common/000232360.pdf} 8月29日に閲覧.
+
+\bibitem{delay:higaigaku}
+東洋経済ONLINE.
+\newblock 満員電車も遅延も許せない！　通勤問題に特効薬はあるのか《鉄道進化論》.
+\newblock \url{http://toyokeizai.net/articles/-/10756} 8月30日に閲覧.
+
+\bibitem{jr:service_status}
+JR東日本旅客鉄道株式会社.
+\newblock 列車運行情報サービス.
+\newblock \url{http://traininfo.jreast.co.jp/train_info/kanto.aspx}.
+
+\bibitem{twitter:odakyu}
+Twitter.
+\newblock 小田急公式アカウント.
+\newblock \url{https://twitter.com/odakyuline_info}.
+
+\bibitem{kris:2009}
+B.~Krishnamurthy and C.E. Wills.
+\newblock {On the leakage of personally identifiable information via online
+  social networks}.
+\newblock In {\em Proceedings of the 2nd ACM workshop on Online social
+  networks}, pages 7--12. ACM, 2009.
+
+\bibitem{web_info:2005}
+松尾 豊, 友部 博教, 橋田 浩一, 中島 秀之, and 石塚 満.
+\newblock Web 上の情報からの人間関係ネットワークの抽出.
+\newblock {\em 人工知能学会論文誌 = Transactions of the Japanese Society for
+  Artificial Intelligence : AI}, 20:46--56, 20051101.
+
+\bibitem{silv:2000}
+Schiaffino Silvia~N and Analia Amandi.
+\newblock User profiling case-based reasoning and bayesian networks.
+\newblock {\em 7th Ibe-American Conference on Ai and Brazilian}, 2(1):19--22,
+  11 2000.
+
+\bibitem{Panopticlick:2010}
+Electronic~Frontier Foundation.
+\newblock Panopticlick.
+\newblock http://panopticlick.eff.org/, 1 2010.
+
+\bibitem{info_combine:2000}
+本村憲史 and 金田重郎.
+\newblock {ネットワーク上での情報統合によるプライバシー侵害とその対策}.
+\newblock {\em 経営情報学会 1998 年春季全国研究発表大会, D-1-2}, pages 65--68,
+  1998.
+
+\bibitem{saikawa:2008}
+佐藤 雅明.
+\newblock {\em インターネット上での自動車情報基盤の構築}.
+\newblock PhD thesis, 慶応義塾大学政策・メディア研究科, 2008.
+
+\bibitem{Lockr:2009}
+A.~Tootoonchian, S.~Saroiu, Y.~Ganjali, and A.~Wolman.
+\newblock Lockr: Better privacy for social networks.
+\newblock {\em CoNEXT}, pages 169--180, 2009.
+
+\bibitem{personal_data:2005}
+松井志菜子.
+\newblock 個人情報・プライバシーの保護.
+\newblock {\em 長岡技術科学大学言論・人文科学論集}, 19:83--133, 2005.
+
+\bibitem{blinc:2005}
+T.~KARAGIANNIS.
+\newblock Blinc : Multilevel traffic classification in the dark.
+\newblock {\em ACM Sigcomm, Philadelphia, PA, Aug. 2005}, 2005.
+
+\bibitem{passivefinger:2010}
+M.~Zalewski and OS~Passive.
+\newblock Fingerprinting tool.
+\newblock {\em \url{http://lcamtuf.coredump.cx/p0f.shtml}}, 1 2010.
+
+\bibitem{mixi:2009}
+Inc mixi.
+\newblock [mixi].
+\newblock \url{http://mixi.jp}, 9 2009.
+
+\bibitem{twitter:2009}
+Twitter.
+\newblock twitter.
+\newblock \url{http://twitter.com}, 9 2009.
+
+\bibitem{takagi:2009}
+高木浩光.
+\newblock Bluetoothで山手線の乗車パターンを追跡してみた.
+\newblock http://takagi-hiromitsu.jp/diary/20090301.html, 2009.
+\newblock 12.
+
+\bibitem{evernote:2010}
+Evernote Corporation.
+\newblock Welcome to your notable world | evernote corporation.
+\newblock http://www.evernote.com/, 1 2010.
+
+\bibitem{iTunes:2009}
+Apple.
+\newblock Apple - download music and more with itunes. play it all on ipod.
+\newblock http://www.apple.com/itunes/, 12 2009.
+
+\bibitem{OECD8:1980}
+{OECD RECOMMENDATION CONCERNING AND GUIDELINES GOVERNING THE PROTECTION OF
+  PRIVACY AND TRANSBORDER FLOWS OF PERSONAL DATA}.
+\newblock O.E.C.D. Document C(80)58(Final), 10 1980.
+
+\end{thebibliography}

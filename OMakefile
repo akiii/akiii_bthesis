@@ -25,13 +25,13 @@ TEXDEPS[]   =
 	$(BIBSRC)/privacy.bib
 	$(BIBSRC)/software.bib
 	$(BIBSRC)/company.bib
+	$(BIBSRC)/railroad.bib
 	$(SRC)/1_introduction.tex
 	$(SRC)/2_background.tex
 	$(SRC)/3_related_works.tex
-	$(SRC)/4_assumption.tex
-	$(SRC)/5_evaluation.tex
-	$(SRC)/5_2_evaluation.tex
-	$(SRC)/6_consideration.tex
+	$(SRC)/4_approach.tex
+	$(SRC)/5_implementation.tex
+	$(SRC)/6_evaluation.tex
 	$(SRC)/7_conclusion.tex
 	$(SRC)/abstract_english.tex
 	$(SRC)/abstract_japanese.tex

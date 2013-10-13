@@ -1,35 +1,11 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces 日本の輸送機関別輸送人員数}}{5}{figure.2.1}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces JR列車運行情報サービスページ}}{6}{figure.2.2}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces 小田急線Twitterアカウントページ}}{7}{figure.2.3}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces 日本の輸送機関別輸送人員数}}{3}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces JR列車運行情報サービスページ}}{4}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces 小田急線Twitterアカウントページ}}{5}{figure.2.3}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Cookieを利用して得たSNS情報とApacheログの組み合わせ手法}}{12}{figure.3.1}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces ユーザ特定手法の全体図}}{15}{figure.4.1}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces パケットヘッダ情報の収集システムの概要}}{15}{figure.4.2}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces ホストAの送信先IPアドレス・ポート番号}}{17}{figure.4.3}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces ユーザBの送信先IPアドレス・ポート番号}}{17}{figure.4.4}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces MacOSXとWindowsXPの利用送信元ポート番号}}{18}{figure.4.5}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces MacOSXの起動時のパケットの発信タイミング}}{20}{figure.4.6}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Windows Vistaの起動時のパケットの発信タイミング}}{20}{figure.4.7}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces MacOSXのポート番号とプロトコル別パケットの発信タイミング}}{21}{figure.4.8}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Windows Vistaのポート番号とプロトコル別パケットの発信タイミング}}{21}{figure.4.9}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces 起動時と復旧時におけるパケットの発信タイミングの比較}}{23}{figure.4.10}
-\contentsline {figure}{\numberline {4.11}{\ignorespaces 時間におけるホストのIPアドレス遷移回数}}{25}{figure.4.11}
-\contentsline {figure}{\numberline {4.12}{\ignorespaces パケットヘッダ情報の収集}}{27}{figure.4.12}
-\contentsline {figure}{\numberline {4.13}{\ignorespaces MacOSXのFinder}}{28}{figure.4.13}
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Bluetooth情報の収集}}{30}{figure.4.14}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces システムの動作概要}}{32}{figure.5.1}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces ホスト識別手法の設計}}{33}{figure.5.2}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces WIDE合宿ネットワークトポロジ図}}{35}{figure.5.3}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces 共有ホスト名を用いた実験のネットワーク概要図}}{39}{figure.5.4}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces 共有ホスト名を用いたユーザ生活モデル}}{39}{figure.5.5}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Bluetoothデバイスの検出}}{41}{figure.5.6}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Bluetoothデバイスの検出によるユーザのライフタイム}}{43}{figure.5.7}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces 一般ユーザのガイドライン}}{46}{figure.6.1}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces 開発者，ネットワーク管理者のガイドライン}}{46}{figure.6.2}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces OECD8原則}}{48}{figure.6.3}
 \addvspace {10\p@ }

@@ -1,4 +1,4 @@
-This is pTeXk, Version 3.141592-p3.1.11 (euc) (Web2C 7.5.4) (format=platex 2012.9.25)  25 SEP 2013 22:21
+This is pTeXk, Version 3.141592-p3.1.11 (euc) (Web2C 7.5.4) (format=platex 2012.9.25)  13 OCT 2013 10:38
  %&-line parsing enabled.
 **akiii_bthesis
 (./akiii_bthesis.tex
@@ -337,9 +337,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (./akiii_bthesis.aux
 
-LaTeX Warning: Label `assumption:pakcet' multiply defined.
-
-
 LaTeX Warning: Label `conclusion:matome' multiply defined.
 
 )
@@ -391,10 +388,14 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 12.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-) [1
+)
+Overfull \hbox (36.50854pt too wide) in paragraph at lines 12--18
+ [][] 
+ []
 
-])
-(./src/abstract_japanese.tex) [1] (./src/abstract_english.tex) [2
+[1
+
+]) (./src/abstract_japanese.tex) [1] (./src/abstract_english.tex) [2
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <24.88> not available
@@ -410,50 +411,35 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
  [3
 
 
-]
-
-LaTeX Font Warning: Font shape `JT1/mc/m/sl' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 72.
-
-
-LaTeX Font Warning: Font shape `JY1/mc/m/sl' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 72.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 16.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[4])
+])
 \tf@toc=\write4
 \openout4 = `akiii_bthesis.toc'.
 
- [5] (./akiii_bthesis.lof)
+ [4] (./akiii_bthesis.lof)
 \tf@lof=\write5
 \openout5 = `akiii_bthesis.lof'.
 
- [6
+ [5
 
 
 ] (./akiii_bthesis.lot)
 \tf@lot=\write6
 \openout6 = `akiii_bthesis.lot'.
 
- [7
+
+[6
+
+
+] (./src/1_introduction.tex
+Ви 1 ѕП
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 4.
+) (./src/2_background.tex [1
 
 
 ]
-(./src/1_introduction.tex
-Ви 1 ѕП
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 7.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 7.
-[1
-
-
-] [2]) (./src/2_background.tex [3]
 Ви 2 ѕП
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 12.
@@ -465,13 +451,28 @@ File: ./pdf/jr_delays_page.pdf Graphic file (type eps)
  <./pdf/jr_delays_page.pdf>
 File: ./pdf/odakyu_twitter_page.pdf Graphic file (type eps)
 
-<./pdf/odakyu_twitter_page.pdf> [4
+<./pdf/odakyu_twitter_page.pdf> [2
 
-] [5]
+]
 
-LaTeX Warning: Text page 6 contains only floats.
+LaTeX Font Warning: Font shape `JT1/mc/m/sl' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 96.
 
-[6] [7]
+
+LaTeX Font Warning: Font shape `JY1/mc/m/sl' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 96.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3]
+
+LaTeX Warning: Text page 4 contains only floats.
+
+[4] [5]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 127.
 
  (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
@@ -479,16 +480,17 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 127.
- [8]
+ [6] [7] [8]
+[9]
 
-LaTeX Warning: Reference `background:passive' on page 9 undefined on input line
- 164.
+LaTeX Warning: Reference `background:passive' on page 10 undefined on input lin
+e 259.
 
 
-LaTeX Warning: Reference `background:thread' on page 9 undefined on input line 
-165.
+LaTeX Warning: Reference `background:thread' on page 10 undefined on input line
+ 260.
 
-[9]) (./src/3_related_works.tex [10]
+) (./src/3_related_works.tex [10]
 Ви 3 ѕП
 File: ./pdf/related_work_1.pdf Graphic file (type eps)
 <./pdf/related_work_1.pdf>
@@ -510,128 +512,37 @@ LaTeX Warning: Reference `fig:model_2' on page 12 undefined on input line 58.
 
 LaTeX Warning: Reference `fig:model_2' on page 12 undefined on input line 69.
 
-[12]) (./src/4_assumption.tex [13]
+[12]) (./src/4_approach.tex [13]
 Ви 4 ѕП
-File: ./pdf/zentai.pdf Graphic file (type eps)
-<./pdf/zentai.pdf>
-File: ./pdf/packet_model.pdf Graphic file (type eps)
- <./pdf/packet_model.pdf> [14
-
-] [15]
-File: ./pdf/userA_ipport.pdf Graphic file (type eps)
- <./pdf/userA_ipport.pdf>
-File: ./pdf/userB_ipport.pdf Graphic file (type eps)
-
-<./pdf/userB_ipport.pdf> [16]
-
-LaTeX Warning: Text page 17 contains only floats.
-
-[17]
-File: ./pdf/src_port.pdf Graphic file (type eps)
- <./pdf/src_port.pdf>
-Overfull \hbox (11.9995pt too wide) in paragraph at lines 144--145
- [] 
- []
-
-[18]
-File: ./pdf/stup_mac2.pdf Graphic file (type eps)
- <./pdf/stup_mac2.pdf>
-File: ./pdf/stup_win2.pdf Graphic file (type eps)
- <./pdf/stup_win2.pdf>
-Overfull \hbox (7.98218pt too wide) in paragraph at lines 201--202
- [] 
- []
-
-File: ./pdf/mac_port.pdf Graphic file (type eps)
-<./pdf/mac_port.pdf>
-File: ./pdf/win_port.pdf Graphic file (type eps)
- <./pdf/win_port.pdf> [19]
-
-LaTeX Warning: Text page 20 contains only floats.
-
-[20]
-
-LaTeX Warning: Text page 21 contains only floats.
-
-[21]
-File: ./pdf/startup_suspend.pdf Graphic file (type eps)
- <./pdf/startup_suspend.pdf>
-Overfull \hbox (1.46017pt too wide) in paragraph at lines 282--283
- [] 
- []
-
-[22] [23] [24]
-File: ./pdf/dhcp.pdf Graphic file (type eps)
- <./pdf/dhcp.pdf> [25] [26]
-File: ./pdf/share_model.pdf Graphic file (type eps)
- <./pdf/share_model.pdf>
-File: ./pdf/share_mac.pdf Graphic file (type eps)
-
-<./pdf/share_mac.pdf> [27] [28]
-
-LaTeX Warning: Reference `background:user_in_network' on page 29 undefined on i
-nput line 552.
-
-File: ./pdf/Bluetooth_model.pdf Graphic file (type eps)
-<./pdf/Bluetooth_model.pdf> [29]) (./src/5_evaluation.tex [30]
-Ви 5 ѕП
-File: ./pdf/system_model.pdf Graphic file (type eps)
-<./pdf/system_model.pdf>
-Overfull \hbox (9.28705pt too wide) in paragraph at lines 33--34
- [] 
- []
-
-[31
-
-] [32]
-File: ./pdf/tree.pdf Graphic file (type eps)
- <./pdf/tree.pdf> [33]
-File: ./pdf/wide_top.pdf Graphic file (type eps)
- <./pdf/wide_top.pdf>
-Overfull \hbox (29.32616pt too wide) in paragraph at lines 174--210
- [] 
- []
-
-[34] [35] [36]) (./src/5_2_evaluation.tex [37]
-File: ./pdf/share_topo.pdf Graphic file (type eps)
- <./pdf/share_topo.pdf>
-File: ./figure/life_time.eps Graphic file (type eps)
-
-<./figure/life_time.eps> [38] [39] [40]
-File: ./pdf/Bluetooth_display.pdf Graphic file (type eps)
- <./pdf/Bluetooth_display.pdf> [41]
-
-LaTeX Warning: Reference `background:user_in_network' on page 42 undefined on i
-nput line 187.
-
-File: ./pdf/Bluetooth_lifetime.pdf Graphic file (type eps)
-<./pdf/Bluetooth_lifetime.pdf> [42] [43]) (./src/6_consideration.tex [44]
-Ви 6 ѕП
-[45
+) (./src/5_implementation.tex [14
 
 ]
+Ви 5 ѕП
+) (./src/6_evaluation.tex [15
 
-LaTeX Warning: Text page 46 contains only floats.
+]
+Ви 6 ѕП
+) (./src/7_conclusion.tex [16
 
-[46] [47] [48]) (./src/7_conclusion.tex [49]
+]
 Ви 7 ѕП
-[50
+) (./src/acknowledgement.tex [17
 
-]) (./src/acknowledgement.tex [51]) (./bib/biblio.tex (./akiii_bthesis.bbl
-[52
+]) (./bib/biblio.tex (./akiii_bthesis.bbl
+[18
 
 ]
 
 LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
-(Font)              using `JT1/gt/m/n' instead on input line 20.
+(Font)              using `JT1/gt/m/n' instead on input line 27.
 
 
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
-(Font)              using `JY1/gt/m/n' instead on input line 20.
+(Font)              using `JY1/gt/m/n' instead on input line 27.
 
-[53
+)) [19
 
-])) [54] (./akiii_bthesis.aux)
+] (./akiii_bthesis.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -643,12 +554,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6842 strings out of 257674
- 97872 string characters out of 1191153
- 196682 words of memory out of 3000000
- 9799 multiletter control sequences out of 10000+50000
- 24940 words of font info for 101 fonts, out of 2000000 for 2000
+ 6681 strings out of 257674
+ 95094 string characters out of 1191153
+ 192682 words of memory out of 3000000
+ 9667 multiletter control sequences out of 10000+50000
+ 23481 words of font info for 94 fonts, out of 2000000 for 2000
  14 hyphenation exceptions out of 8191
- 38i,12n,58p,280b,551s stack positions out of 5000i,500n,6000p,200000b,40000s
+ 38i,12n,58p,254b,562s stack positions out of 5000i,500n,6000p,200000b,40000s
 
-Output written on akiii_bthesis.dvi (62 pages, 285648 bytes).
+Output written on akiii_bthesis.dvi (26 pages, 100252 bytes).

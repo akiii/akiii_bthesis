@@ -1,25 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{amazon:2009}
-Inc Amazon.com.
-\newblock Amazon.co.jp: 通販 -ファション、家具から家電まで.
-\newblock \url{http://www.amazon.co.jp}, 12 2009.
-
-\bibitem{navitime}
-NAVITIME JAPAN.
-\newblock 地図検索｜navitime.
-\newblock http://www.navitime.co.jp/, 12 2009.
-
-\bibitem{privacy_policy:2009}
-総務省行政管理局.
-\newblock 個人情報の保護に関する法律.
-\newblock \url{http://law.e-gov.go.jp/htmldata/H15/H15HO057.html}, 12 2009.
-
-\bibitem{privacy:1967}
-Alan Westin.
-\newblock {\em Privacy and Freedom}.
-\newblock New Jork Atheneum, 1967.
-
 \bibitem{kokudokotsusho:num_of_users}
 国土交通省.
 \newblock 旅客の輸送機関別輸送量・分担率の推移.
@@ -84,46 +64,5 @@ A.~Tootoonchian, S.~Saroiu, Y.~Ganjali, and A.~Wolman.
 松井志菜子.
 \newblock 個人情報・プライバシーの保護.
 \newblock {\em 長岡技術科学大学言論・人文科学論集}, 19:83--133, 2005.
-
-\bibitem{blinc:2005}
-T.~KARAGIANNIS.
-\newblock Blinc : Multilevel traffic classification in the dark.
-\newblock {\em ACM Sigcomm, Philadelphia, PA, Aug. 2005}, 2005.
-
-\bibitem{passivefinger:2010}
-M.~Zalewski and OS~Passive.
-\newblock Fingerprinting tool.
-\newblock {\em \url{http://lcamtuf.coredump.cx/p0f.shtml}}, 1 2010.
-
-\bibitem{mixi:2009}
-Inc mixi.
-\newblock [mixi].
-\newblock \url{http://mixi.jp}, 9 2009.
-
-\bibitem{twitter:2009}
-Twitter.
-\newblock twitter.
-\newblock \url{http://twitter.com}, 9 2009.
-
-\bibitem{takagi:2009}
-高木浩光.
-\newblock Bluetoothで山手線の乗車パターンを追跡してみた.
-\newblock http://takagi-hiromitsu.jp/diary/20090301.html, 2009.
-\newblock 12.
-
-\bibitem{evernote:2010}
-Evernote Corporation.
-\newblock Welcome to your notable world | evernote corporation.
-\newblock http://www.evernote.com/, 1 2010.
-
-\bibitem{iTunes:2009}
-Apple.
-\newblock Apple - download music and more with itunes. play it all on ipod.
-\newblock http://www.apple.com/itunes/, 12 2009.
-
-\bibitem{OECD8:1980}
-{OECD RECOMMENDATION CONCERNING AND GUIDELINES GOVERNING THE PROTECTION OF
-  PRIVACY AND TRANSBORDER FLOWS OF PERSONAL DATA}.
-\newblock O.E.C.D. Document C(80)58(Final), 10 1980.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is pTeXk, Version 3.141592-p3.1.11 (euc) (Web2C 7.5.4) (format=platex 2012.9.25)  17 OCT 2013 12:51
+This is pTeXk, Version 3.141592-p3.1.11 (euc) (Web2C 7.5.4) (format=platex 2012.9.25)  17 OCT 2013 17:45
  %&-line parsing enabled.
 **akiii_bthesis
 (./akiii_bthesis.tex
@@ -483,74 +483,53 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
  [6] [7] [8]
 [9]) (./src/3_related_works.tex [10]
 Ви 3 ѕП
-File: ./pdf/related_work_1.pdf Graphic file (type eps)
-<./pdf/related_work_1.pdf>
-
-LaTeX Warning: Reference `fig:model_1' on page 11 undefined on input line 36.
-
-
-LaTeX Warning: Reference `fig:model_2' on page 11 undefined on input line 36.
-
-
-LaTeX Warning: Reference `fig:model_2' on page 11 undefined on input line 48.
-
-[11
+) (./src/4_approach.tex [11
 
 ]
-
-LaTeX Warning: Reference `fig:model_2' on page 12 undefined on input line 58.
-
-
-LaTeX Warning: Reference `fig:model_2' on page 12 undefined on input line 69.
-
-[12]) (./src/4_approach.tex [13]
 Ви 4 ѕП
-) (./src/5_implementation.tex [14
+) (./src/5_implementation.tex [12
 
 ]
 Ви 5 ѕП
-) (./src/6_evaluation.tex [15
+) (./src/6_evaluation.tex [13
 
 ]
 Ви 6 ѕП
-) (./src/7_conclusion.tex [16
+) (./src/7_conclusion.tex [14
 
 ]
 Ви 7 ѕП
-) (./src/acknowledgement.tex [17
+) (./src/acknowledgement.tex [15
 
 ]) (./bib/biblio.tex (./akiii_bthesis.bbl
-[18
+[16
 
 ]
 
 LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
-(Font)              using `JT1/gt/m/n' instead on input line 27.
+(Font)              using `JT1/gt/m/n' instead on input line 26.
 
 
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
-(Font)              using `JY1/gt/m/n' instead on input line 27.
+(Font)              using `JY1/gt/m/n' instead on input line 26.
 
-)) [19
+)) [17
 
 ] (./akiii_bthesis.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6682 strings out of 257674
- 95154 string characters out of 1191153
+ 6649 strings out of 257674
+ 94557 string characters out of 1191153
  192682 words of memory out of 3000000
- 9668 multiletter control sequences out of 10000+50000
+ 9636 multiletter control sequences out of 10000+50000
  23481 words of font info for 94 fonts, out of 2000000 for 2000
  14 hyphenation exceptions out of 8191
- 38i,12n,58p,254b,562s stack positions out of 5000i,500n,6000p,200000b,40000s
+ 38i,12n,58p,260b,562s stack positions out of 5000i,500n,6000p,200000b,40000s
 
-Output written on akiii_bthesis.dvi (26 pages, 100432 bytes).
+Output written on akiii_bthesis.dvi (24 pages, 87688 bytes).

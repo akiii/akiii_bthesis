@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{1}
 
 \bibitem{kokudokotsusho:num_of_users}
 国土交通省.
@@ -20,49 +20,9 @@ Twitter.
 \newblock 小田急公式アカウント.
 \newblock \url{https://twitter.com/odakyuline_info}.
 
-\bibitem{kris:2009}
-B.~Krishnamurthy and C.E. Wills.
-\newblock {On the leakage of personally identifiable information via online
-  social networks}.
-\newblock In {\em Proceedings of the 2nd ACM workshop on Online social
-  networks}, pages 7--12. ACM, 2009.
-
-\bibitem{web_info:2005}
-松尾 豊, 友部 博教, 橋田 浩一, 中島 秀之, and 石塚 満.
-\newblock Web 上の情報からの人間関係ネットワークの抽出.
-\newblock {\em 人工知能学会論文誌 = Transactions of the Japanese Society for
-  Artificial Intelligence : AI}, 20:46--56, 20051101.
-
-\bibitem{silv:2000}
-Schiaffino Silvia~N and Analia Amandi.
-\newblock User profiling case-based reasoning and bayesian networks.
-\newblock {\em 7th Ibe-American Conference on Ai and Brazilian}, 2(1):19--22,
-  11 2000.
-
-\bibitem{Panopticlick:2010}
-Electronic~Frontier Foundation.
-\newblock Panopticlick.
-\newblock http://panopticlick.eff.org/, 1 2010.
-
-\bibitem{info_combine:2000}
-本村憲史 and 金田重郎.
-\newblock {ネットワーク上での情報統合によるプライバシー侵害とその対策}.
-\newblock {\em 経営情報学会 1998 年春季全国研究発表大会, D-1-2}, pages 65--68,
-  1998.
-
-\bibitem{saikawa:2008}
-佐藤 雅明.
-\newblock {\em インターネット上での自動車情報基盤の構築}.
-\newblock PhD thesis, 慶応義塾大学政策・メディア研究科, 2008.
-
-\bibitem{Lockr:2009}
-A.~Tootoonchian, S.~Saroiu, Y.~Ganjali, and A.~Wolman.
-\newblock Lockr: Better privacy for social networks.
-\newblock {\em CoNEXT}, pages 169--180, 2009.
-
-\bibitem{personal_data:2005}
-松井志菜子.
-\newblock 個人情報・プライバシーの保護.
-\newblock {\em 長岡技術科学大学言論・人文科学論集}, 19:83--133, 2005.
+\bibitem{related_works:yanase:2013}
+簗瀬 拓弥, 増田 英孝, 山田 剛一, 荒牧 英治, and 中川 裕志.
+\newblock Twitter を用いた電車遅延の自動通知.
+\newblock {\em 情報処理学会研究報告}, 2013.
 
 \end{thebibliography}
